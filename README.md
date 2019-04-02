@@ -14,4 +14,4 @@ Once you have installed all the dependencies simply run `make` in the BootNTR di
 # Credits
 - [@Nanquitas](https://github.com/Nanquitas) : BootNTRSelector, from which this app is forked.
 - [@44670](https://github.com/44670) : Initial BootNTR and NTR CFW developer.
--[@PabloMK7](https://github.com/mariohackandglitch) : CTGP-7 Launcher that i forked from it
+- [@PabloMK7](https://github.com/mariohackandglitch) : CTGP-7 Launcher that i forked from it
